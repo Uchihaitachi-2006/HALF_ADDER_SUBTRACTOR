@@ -73,4 +73,5 @@ endmodule
 ![Screenshot 2024-09-23 104345](https://github.com/user-attachments/assets/4548dfac-ee98-4f70-b748-a49bcb20a5b9)
 
 **Result:**
+
 the implementation of half adder and half subtractor verified succesfully
