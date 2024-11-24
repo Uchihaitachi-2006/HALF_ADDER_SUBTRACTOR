@@ -49,8 +49,8 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
-## DEVELOPED : SAIGURUCHANDRAN
-## REG NO: 212223240143
+## DEVELOPED : PAWAN CHARAN
+## REG NO: 212223220074
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 ```
 
